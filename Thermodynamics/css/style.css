@@ -1,0 +1,133 @@
+* {
+	padding: 0;
+	margin: 0;
+}
+h2 {
+	color: red; 
+	font-family: monospace;
+}
+h3 {
+	color: green;
+	font-family: fantasy;
+	letter-spacing: 3px;
+}
+body {
+	font-family: cursive;
+	font-size: 16px;
+	font-weight: normal;
+	line-height: 2.0em;
+	background-image: url('../images/him.jpg');
+	background-position: center;
+	background-attachment: fixed;
+
+}
+a {
+	text-decoration: none; 
+}
+a:hover {
+	color: yellow;
+}
+a:ctive {
+	color: red;
+}
+#clr {
+	clear: both;
+}
+#container {
+	width: 90%;
+	margin: auto;
+	overflow: hidden;
+}
+#extra {
+	float: left;
+	width: 25%;
+	padding: 0;
+	margin: 10px 0;
+}
+#extra ul {
+	padding: 0;
+	list-style: none
+}
+#extra ul li {
+	margin: 50px 0;
+	font-size: large;
+}
+
+#main {
+	float: left;
+	width: 50%;
+	color: lightblue;
+	padding: 0;
+	margin: 10px 0;
+}
+#extras {
+	color: purple;
+	float: right;
+	width: 20%;
+	padding: 0;
+	margin: 10px 0;
+}
+#main-header {
+	background-color: black;
+	color: white;
+}
+#main-header h1 {
+	letter-spacing: 15px;
+}
+#main-header ul {
+	padding: 0;
+	display: inline-flex;
+	list-style: none;
+}
+#main-header ul li {
+	margin: 0 20px;
+}
+#main-footer {
+	padding: 0;
+	margin: 0;
+	background-color: black;
+	color: white;
+}
+#main-footer ul {
+	padding: 0;
+	list-style: none;
+}
+#main-footer ul li {
+	display: inline;
+	margin: 40px;
+	padding: 20px;
+}
+
+#book{
+	right: 20px;
+	position: absolute;
+	margin-top: 20px;
+}
+#nav {
+	background-color: darkgray;
+	color: white;
+}
+#nav ul {
+	padding: 0;
+	list-style: none;
+	margin: 0 20px;
+	display: inline-flex;
+}
+#nav ul li {
+	display: inline;
+	margin: 0 50px; 
+}
+@media(max-width: 600px){
+	#main{
+		width: 100%;
+		float: none;
+	}
+	#extra{
+		width: 100%;
+		float: none;
+	}
+	#extras{
+		width: 100%;
+		float: none;
+	}
+}

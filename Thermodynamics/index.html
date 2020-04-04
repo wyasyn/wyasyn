@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>YASYN'S THERMAL DYNAMICS</title>
+	<meta charset="utf-8">
+	<link rel="stylesheet" type="text/css" href="css/style.css">
+</head>
+<body>
+
+	<header id="main-header">
+		<ul>
+			<li><img src="images/logo.jpg"></li>
+			<li><hgroup>
+				<h1>Thermodynamics</h1>
+				<h2>An Introduction to Thermal Physics</h2>
+			</hgroup> </li>
+			<li><img src="images/get.jpg"></li>
+			<li><a href="#main-footer"><h3 id="book">Contact Us</h3></a></a> </li>
+		</ul>
+	</header>
+	<div id="nav">
+		<ul>
+			<li><a href="#temp">Temperature</a> </li>
+			<li><a href="#ther">Thermal Equilibrium</a></li>
+			<li><a href="#heat">Heat</a></li>
+			<li><a href="#create">Creating Entropy</a></li>
+			<li><a href="#rank">Rankine cycle</a></li>
+			<li><a href="#part">Partition Function</a></li>
+		</ul>
+	</div>
+
+<div id="container">
+	<div id="extra">
+		<ul>
+			<li><a href="#first">First “Law” of Thermodynamics</a></li>
+			<li><a href="#secon">Second “Law” of Thermodynamics</a></li>
+			<li><a href="#pros">Pressure</a></li>
+			<li><a href="#stat">Statistical Mechanics</a></li>
+		</ul>
+	</div>
+
+
+	<div id="main">
+		<h2 id="first">First “Law” of Thermodynamics</h2>
+		<h3 id="temp">Temperature</h3>
+		<dt>Definition of energy</dt>
+			<dd>
+				Energy is a fundamental physical concept.  My favorite dictionary gives as its 4th definition of energy: 4. Physics.  Capacity for performing work.  So, now we go to the W section for the 13th definition of work: 13. Mech.  The transference of energy by a process involving the motion of the point of application of a force, as when there is movement against a resisting force or when a body is given acceleration; it is measured by the product of the force and the displacement of its point of application in the line of action.  [How about the definition of work number 10. The foam or froth caused by fermentation, as in cider, in making vinegar, etc.]
+			</dd>
+			<dd>
+				That definition of work is adequate as a definition of mechanical work, but that definition of the word energy is nearly useless.  Of course, that’s what dictionaries do, define words in terms of other words in endless circles—they are about usages more than meanings.  A fundamental concept cannot be defined in terms of other concepts; that is what fundamental means.
+			</dd>
+		<dt>Conservation of energy</dt>
+			<dd>
+				We can list the forms that energy might take.  In effect, we are saying that if such and such happens in or to a system, then the energy of the system changes.  There is potential energy, which is related to the positions of parts of the system.  There is kinetic energy, which is related to the movements of parts of the system.  There is rest energy, which is related to the amount of matter in the system.  There is electromagnetic energy, chemical energy, and nuclear energy, and more.  
+			</dd>
+			<dd>
+				We find that for an isolated system, the total amount of energy in the system does not change.  Within the system, energy may change from one form to another, but the total energy of all forms is a conserved quantity.  Now, if a system is not isolated from the rest of the universe, energy may be transferred into or out of the system, so the total energy of such a system may rise or fall.
+			</dd>
+		<h3 id="ther">Thermal Equilibrium</h3>
+		<h4>Temperature</h4>
+		<p>
+			Consider two objects, each consisting of a very large number of atoms and/or molecules.  Here, very large means at least several multiples of Avogadro’s Number of particles.  We call such an object a macroscopic object.  Consider that these two objects (they may be two blocks of aluminum, for instance, though they need not be the same material—they might be aluminum and wood, or anything) are isolated from the rest of the universe, but are in contact with each other. We observe that energy flows spontaneously from one block (A) to the other (B).  We say that block A has a higher temperature than block B.  In fact, we say that the energy flow occurs because the blocks have different temperatures.  We further observe that after the lapse of some time, called the relaxation time, the flow of energy from A to B ceases, after which there is zero net transfer of energy between the blocks.  At this point the two blocks are in thermal equilibrium with each other, and we would say that they have the same temperature.
+		</p>
+
+		<h2 id="secon">Second “Law” of Thermodynamics</h2>
+		<h3 id="heat">Heat</h3>
+		<p>
+			Consider a system of three coins, as described in the text.  The macrostate of this system is described by the number of heads facing up.  There are four such macrostates, labeled 0, 1, 2, & 3.  We might even call these energy levels 0, 1, 2, & 3.
+			Specifying the orientation of each individual coin defines a microstate.  We can list the microstates, using H for heads and T for tails:  TTT, HTT, THT, TTH, HHT, HTH, THH, HHH.  
+			Now, we sort the microstates into the macrostate energy levels.
+			Consider a large number of non-interacting magnetic dipole moments, let’s say N of them.  These dipoles may point in one of only two ways: up or down.  If an external uniform magnetic field is applied, say in the up direction, each dipole will experience a torque tending to rotate it to the up direction also.  That is to say, parallel alignment with the external field is a lower energy state than is anti-parallel alignment.  
+
+			The energy of the system is characterized by the number of dipoles aligned with the external field, q.  But, we don’t care which q dipoles of the N total are in the up state.  Having q dipoles up specifies the energy macrostate, which may be realized by the selection of any q dipoles out of N to be up.  The number of microstates for each macrostate is just the number of combinations, the number of ways of choosing q objects from a collection of N objects. A harmonic oscillator has energy levels that are uniformly spaced in steps of  , where h is Planck’s Constant and   is the frequency of the oscillator.  We imagine a solid made of N such harmonic oscillators.  The total energy of the solid is  , where q is an integer which in this case may well be greater than N.  As shown in the text, the Processes that create new entropy cannot happen spontaneously in reverse.  Heat flow from a warmer object to a cooler object creates entropy, and is irreversible.  Mixing two different gases creates entropy, and is irreversible.  Rapid expansion or compression creates entropy.  On the other hand quasistatic volume change can be reversible, depending what other processes are taking place at the same time.  Very slow heat flow produces very little new entropy and may be regarded as practically reversible.
+			An irreversible process may be reversed by doing work on the system, but that also increases the total amount of entropy in the universe
+		</p>
+
+		<h3 id="create">Creating Entropy</h3>
+		<p>
+			Now if we were to graph these S(T) points we have generated we would see two curves.  But the curves are not parallel; they appear to converge at T = 0.  As a result, the   gets smaller for each successive two-stage step, the closer we get to T = 0. For example, let us say that we wish to cool an ideal gas to absolute zero.  We’d have to “get rid” of the entropy in the gas in a series of steps
+		</p>
+
+		<h2>Pressure</h2>
+		<h3 id="pros">Pressure</h3>
+		<p>
+			Consider two systems whose volumes can change as they interact.  An example might be two gases separated by a moveable membrane.  The total energy and volume of the two systems are fixed, but the systems may exchange energy and volume.  Therefore, the entropy is a function of the volumes as well as the internal energies.  However, we will be keeping the numbers of particles in each system fixed. Consider two systems whose volumes can change as they interact.  An example might be two gases separated by a moveable membrane.  The total energy and volume of the two systems are fixed, but the systems may exchange energy and volume.  Therefore, the entropy is a function of the volumes as well as the internal energies.  However, we will be keeping the numbers of particles in each system fixed.
+		</p>
+		<h2 id="stat">Statistical Mechanics</h2>
+		<h3 id="part">Partition Function</h3>
+		<p>
+			If we envision infinitesimal changes in thermodynamic variables, we can derive thermodynamic identities for the thermodynamic potentials.  We have already, the thermodynamic identity for internal energy An isolated system tends to evolve toward an equilibrium state of maximum entropy.  That is, any spontaneous rearrangements within the system increase the entropy of the system.  Now, consider a system which is in thermal contact with its environment.  The system will tend to evolve, by exchanging energy with the environment.  The entropy of the system may increase or decrease, but the total entropy of the universe increases in the process. The several properties of a system can be divided into two classes—those that depend on the amount of mass in the system, and those that do not.  We imagine a system with volume V in equilibrium.  The system is characterized by its mass, number of particles, pressure, temperature, volume, chemical potential, density, entropy, enthalpy, internal energy, Helmholtz and Gibbs free energies.  Now imagine slicing the system in half, forming two identical systems with volumes V/2.  Some properties of the two systems are unchanged—temperature, pressure, density, and chemical potential.  These are the intensive properties.  The rest are extensive—they are halved when the original system was cut in half.
+		</p>
+ 
+	</div>
+
+	<div id="extras">
+		<h3>Chemical Potential   </h3>
+		<p>
+			Now consider a case in which the systems can exchange particles as well as energy and volume. Imagine a container of volume 2V, isolated from its surroundings, and with a partition that divides the container in half.  An ideal gas is confined to one side of the container.  The gas is in equilibrium, with temperature T and Pressure P.  Now, imagine removing the partition.  Over time, the gas molecules will diffuse to fill the larger volume.  In a similar vein, we might imagine a container divided into two chambers, each with a different ideal gas in it.  When the partition is removed, both gases diffuse to fill the larger volume.  Since the gases are ideal, one gas doesn’t really “notice” the presence of the other as they mix.  The entropy of both gases increases, so the entropy change of the A heat engine is a device that absorbs heat from a reservoir and converts part of it to work.  The engine carries a working substance through a PVT cycle, returning to the state at which it starts.  It expels “waste” heat into a cold reservoir, or into its environment.  It must do this in order that the entropy of the engine itself does not increase with every cycle.
+		</p>
+
+		<h3>Heat pump</h3>
+		<p>
+			The purpose of a heat pump is to transport energy from a cold reservoir to a hot one by doing work on the working substance.  The work is necessary because the temperature of the working fluid must be raised above that of the hot reservoir in order for heat to flow in the desired direction.  Likewise, at the other side of the cycle the working fluid must be made colder than the cold reservoir Real heat engines need to produce work at a more rapid rate than a Carnot engine.  Consequently, their efficiencies are lower than that of a Carnot engine.  Of course, real engines do not achieve even their theoretical efficiencies due to friction and conductive heat loss through the cylinder walls and the like.
+			The purpose of a heat pump is to transport energy from a cold reservoir to a hot one by doing work on the working substance.  The work is necessary because the temperature of the working fluid must be raised above that of the hot reservoir in order for heat to flow in the desired direction.  Likewise, at the other side of the cycle the working fluid must be made colder than the cold reservoir Real heat engines need to produce work at a more rapid rate than a Carnot engine.  Consequently, their efficiencies are lower than that of a Carnot engine.  Of course, real engines do not achieve even their theoretical efficiencies due to friction and conductive heat loss through the cylinder walls and the like.
+		</p>
+		<h3 id="rank">Rankine cycle</h3>
+		<p>
+			The working fluid passes through a narrow opening from a region of high pressure into a region of low pressure.  In doing so, it expands adiabatically (Q = 0) and cools.  As the fluid expands, the negative potential energy of interaction among the atoms/molecules increases and the kinetic energy decreases. Subsequently, the chilled fluid absorbs heat from the cold reservoir and vaporizes.  Therefore, the working fluid must be a substance with a low boiling point.  The compressor does the work of compressing the gas to raise its temperature, as well as maintains the pressure difference required for the throttle valve to work. A number of thermodynamic quantities have been defined—useful under differing conditions of fixed pressure, volume, temperature, particle number, etc.  These are the enthalpy, the Helmholtz free energy, and the Gibbs free energy.  Together with the internal energy, these are referred to as thermodynamic potentials.
+		</p>
+	</div>
+
+	<div id="clr"></div>
+</div>
+<footer id="main-footer">
+	<ul>
+		<li>&copy Yasyn Walum</li>
+		<li>Tel: +256 750 771 111</li>
+		<li>e-mail: ywalum@gmail.com</li>
+		<li>Mbalwa, Kyaliwajjala</li>
+		
+	</ul>
+</footer>
+
+</body>
+</html>
