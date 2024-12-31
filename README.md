@@ -3,7 +3,7 @@
 Welcome to my GitHub profile! I'm a passionate **Computer Scientist** skilled in various domains, including:
 
 - **Data Science** 📊
-- **Machine Learning** 🤖📊🧠⚙️
+- **Machine Learning & Artificial Intelligence** 🤖📊🧠⚙️
 - **Full Stack Web Development** 🌐
 - **Cybersecurity** 🔒
 - **Mobile App Development** 📱
