@@ -1,12 +1,14 @@
 # Hi there, I'm Yasyn! 👋
 
-Welcome to my GitHub profile! I'm a passionate **Computer Scientist** skilled in various domains, including:
+Welcome to my GitHub profile! I'm a passionate **Computer Scientist** dedicated to building impactful solutions across various domains:
 
 - **Data Science** 📊
-- **Machine Learning & Artificial Intelligence** 🤖📊🧠⚙️
+- **Machine Learning & Artificial Intelligence** 🤖🧠
 - **Full Stack Web Development** 🌐
 - **Cybersecurity** 🔒
 - **Mobile App Development** 📱
+
+When I'm not coding, you'll find me exploring tech blogs, learning new tools, or diving into video games 🎮 and movies 🎥
 
 ---
 
@@ -48,6 +50,14 @@ Welcome to my GitHub profile! I'm a passionate **Computer Scientist** skilled in
 
 ---
 
+## 🏆 Notable Projects
+
+- **[AI Assistant](https://euphonious-caramel-0d06dc.netlify.app/)**: A chatbot built using machine learning and NLP to automate customer service.
+- **[E-Commerce Platform](https://furnish-store.netlify.app/)**: Developed a scalable e-commerce solution using React, Next.js, and FastAPI.
+- **[Cybersecurity Dashboard](https://rest-countries-one-blond.vercel.app/)**: A real-time dashboard for monitoring system vulnerabilities, built with Python and Flask.
+
+---
+
 ## 🌱 Strengths
 
 - 🚀 **Fast Learner**: Always eager to dive into new technologies and domains.
@@ -57,16 +67,18 @@ Welcome to my GitHub profile! I'm a passionate **Computer Scientist** skilled in
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wyasyn&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wyasyn&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wyasyn&layout=compact&theme=radical)
 
 ---
 
 ## 🤝 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/yasin-walum)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/yasin-walum)  
 [![Portfolio](https://img.shields.io/badge/-Portfolio-FF5722?logo=google-chrome&logoColor=white&style=for-the-badge)](https://april2024-portfolio.vercel.app/)
 
 ---
 
-### 🌟 Thanks for visiting my profile
+### 🌟 Thanks for stopping by
+
+Feel free to explore my repositories, and don’t hesitate to connect or reach out. Together, let’s innovate and create something amazing! 🚀
