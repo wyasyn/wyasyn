@@ -1,4 +1,6 @@
-# Hi there, I'm Yasyn! 👋
+# 👨‍💻 Yasin Walum
+
+**`Computer Scientist [Full-stack developer, Data Scientist]`**
 
 Welcome to my GitHub profile! I'm a passionate **Computer Scientist** dedicated to building impactful solutions across various domains:
 
