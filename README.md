@@ -77,7 +77,7 @@ When I'm not coding, you'll find me exploring tech blogs, learning new tools, or
 ## 🤝 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/yasin-walum)  
-[![Portfolio](https://img.shields.io/badge/-Portfolio-FF5722?logo=google-chrome&logoColor=white&style=for-the-badge)](https://april2024-portfolio.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-FF5722?logo=google-chrome&logoColor=white&style=for-the-badge)](https://yasin-walum.vercel.app/)
 
 ---
 
