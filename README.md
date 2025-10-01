@@ -1,23 +1,27 @@
 # 👨‍💻 Yasin Walum
 
-**`Computer Scientist [Full-stack developer, Data Scientist]`**
+**`Computer Scientist | Tech Lead | Full-Stack Developer | Data Scientist`**
 
-Welcome to my GitHub profile! I'm a passionate **Computer Scientist** dedicated to building impactful solutions across various domains:
+Welcome to my GitHub profile! I'm a passionate **Computer Scientist** and **Tech Lead** dedicated to building **impactful AI-powered, full-stack, and data-driven solutions**.  
 
-- **Data Science** 📊
-- **Machine Learning & Artificial Intelligence** 🤖🧠
-- **Full Stack Web Development** 🌐
-- **Cybersecurity** 🔒
-- **Mobile App Development** 📱
-
-When I'm not coding, you'll find me exploring tech blogs, learning new tools, or diving into video games 🎮 and movies 🎥
+💡 I thrive at the intersection of **Machine Learning**, **Web & Mobile Development**, and **IoT**, leveraging technology to solve real-world problems.  
 
 ---
 
-## 🚀 Technologies & Tools
+## 🚀 Domains of Expertise
+
+- **Machine Learning & Artificial Intelligence** 🤖🧠 (Computer Vision, NLP, Predictive Analytics)  
+- **Data Science** 📊 (Data Analysis, Visualization, Modeling)  
+- **Full Stack Web Development** 🌐 (Frontend + Backend + APIs)  
+- **Cybersecurity** 🔒 (Secure Systems & Applications)  
+- **Mobile App Development** 📱 (React Native, Flutter, Android)  
+- **IoT & Smart Systems** 🌱 (AI + IoT integrations for health & agriculture)  
+
+---
+
+## 🛠️ Technologies & Tools
 
 ### Frameworks & Libraries
-
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=for-the-badge)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white&style=for-the-badge)
 ![Remix](https://img.shields.io/badge/-Remix-2E343E?logo=remix&logoColor=white&style=for-the-badge)
@@ -28,7 +32,6 @@ When I'm not coding, you'll find me exploring tech blogs, learning new tools, or
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white&style=for-the-badge)
 
 ### Languages
-
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge)
@@ -39,48 +42,65 @@ When I'm not coding, you'll find me exploring tech blogs, learning new tools, or
 ![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white&style=for-the-badge)
 
 ### Frontend
-
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?logo=tailwind-css&logoColor=white&style=for-the-badge)
 ![Material UI](https://img.shields.io/badge/-Material_UI-0081CB?logo=mui&logoColor=white&style=for-the-badge)
 
 ### Tools
-
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge)
 ![Android Studio](https://img.shields.io/badge/-Android_Studio-3DDC84?logo=android-studio&logoColor=white&style=for-the-badge)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=for-the-badge)
+![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?logo=visual-studio-code&logoColor=white&style=for-the-badge)
 
 ---
 
 ## 🏆 Notable Projects
 
-- **[AI Assistant](https://euphonious-caramel-0d06dc.netlify.app/)**: A chatbot built using machine learning and NLP to automate customer service.
-- **[E-Commerce Platform](https://furnish-store.netlify.app/)**: Developed a scalable e-commerce solution using React, Next.js, and FastAPI.
-- **[Cybersecurity Dashboard](https://rest-countries-one-blond.vercel.app/)**: A real-time dashboard for monitoring system vulnerabilities, built with Python and Flask.
+- **Aurora Skin Analyzer** 🩺: AI-powered system for skin condition detection using EfficientNet + IoT.  
+- **Smart Agriculture App** 🌱: Final year project integrating AI + IoT for smart farming.  
+- **AI-Powered Financial Planning Assistant** 💰: A machine learning system for personalized financial advice.  
+- **Attendance Management System** 🎓: Next.js + Face Recognition for automated student/employee attendance.  
+- **CMS Portfolio Website** 💼: Full-stack CMS with Express, MongoDB, Cloudinary, and Next.js frontend.  
+- **AI Assistant** 🤖: NLP chatbot for automated customer support.  
+- **E-Commerce Platform** 🛒: Scalable platform built with Next.js + FastAPI.  
 
 ---
 
 ## 🌱 Strengths
 
-- 🚀 **Fast Learner**: Always eager to dive into new technologies and domains.
-- 🔄 **Adaptability**: Thrives in diverse and dynamic environments.
+- 🚀 **Fast Learner** → Quickly adapts to new technologies & domains.  
+- 🔄 **Adaptability** → Thrives in diverse, dynamic environments.  
+- 🧑‍🤝‍🧑 **Leadership** → Leading tech teams (10+ members) as Tech Lead on real-world AI projects.  
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wyasyn&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wyasyn&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wyasyn&layout=compact&theme=radical)  
+![GitHub Streak](https://streak-stats.demolab.com?user=wyasyn&theme=radical&hide_border=true)  
 
 ---
 
-## 🤝 Let's Connect
+## 🏅 GitHub Achievements
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=wyasyn&theme=radical&no-frame=true&no-bg=true&margin-w=4)  
+
+---
+
+## 🤝 Let’s Connect
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/yasin-walum)  
-[![Portfolio](https://img.shields.io/badge/-Portfolio-FF5722?logo=google-chrome&logoColor=white&style=for-the-badge)](https://yasin-walum.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-FF5722?logo=google-chrome&logoColor=white&style=for-the-badge)](https://yasin-walum.vercel.app/)  
+[![YouTube](https://img.shields.io/badge/-YasynDotDev-FF0000?logo=youtube&logoColor=white&style=for-the-badge)](https://youtube.com/@YasynDotDev)  
 
 ---
 
-### 🌟 Thanks for stopping by
+![Visitor Count](https://komarev.com/ghpvc/?username=wyasyn&color=blueviolet&style=flat-square)  
 
-Feel free to explore my repositories, and don’t hesitate to connect or reach out. Together, let’s innovate and create something amazing! 🚀
+---
+
+### 🌟 Thanks for visiting
+
+✨ Explore my repositories, connect with me, and let’s build **innovative solutions that make an impact!** 🚀
