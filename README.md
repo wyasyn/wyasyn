@@ -85,7 +85,7 @@ Welcome to my GitHub profile! I'm a passionate **Computer Scientist** and **Tech
 
 ## 🏅 GitHub Achievements
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=wyasyn&theme=radical&no-frame=true&no-bg=true&margin-w=4)  
+![Trophies](https://github-profile-trophy.vercel.app/?username=wyasyn&theme=radical&margin-w=10&no-frame=true) 
 
 ---
 
