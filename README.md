@@ -1,106 +1,283 @@
-# 👨‍💻 Yasin Walum
+# Hi there, I'm Yasin Walum 👋
 
-**`Computer Scientist | Tech Lead | Full-Stack Developer | Data Scientist`**
+<div align="center">
+  
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Machine+Learning+Engineer;Tech+Lead+%26+Innovator;Building+AI-Powered+Solutions)](https://git.io/typing-svg)
 
-Welcome to my GitHub profile! I'm a passionate **Computer Scientist** and **Tech Lead** dedicated to building **impactful AI-powered, full-stack, and data-driven solutions**.  
+</div>
 
-💡 I thrive at the intersection of **Machine Learning**, **Web & Mobile Development**, and **IoT**, leveraging technology to solve real-world problems.  
+## 🚀 About Me
+
+I'm a **Computer Scientist** and **Tech Lead** passionate about building **scalable, AI-powered solutions** that solve real-world problems. With expertise spanning **full-stack development**, **machine learning**, and **IoT systems**, I transform ideas into impactful digital products.
+
+```typescript
+const yasin = {
+  code: ["JavaScript", "TypeScript", "Python", "Dart", "Kotlin", "Go", "Java", "C"],
+  askMeAbout: ["web dev", "mobile dev", "AI/ML", "data science", "IoT", "cybersecurity"],
+  technologies: {
+    frontEnd: {
+      js: ["React", "Next.js", "Remix"],
+      css: ["Tailwind CSS", "Material UI", "Styled Components"]
+    },
+    backEnd: {
+      js: ["Node.js", "Express", "NestJS"],
+      python: ["Django", "Flask", "FastAPI"]
+    },
+    mobile: ["React Native", "Flutter", "Expo"],
+    databases: ["MongoDB", "PostgreSQL", "MySQL", "Firebase"],
+    aiML: ["TensorFlow", "PyTorch", "Scikit-learn", "OpenCV"],
+    devOps: ["Docker", "Git", "GitHub Actions", "AWS"],
+  },
+  currentFocus: "Building intelligent systems with AI + IoT",
+  funFact: "I debug with coffee and solve problems with creativity ☕️"
+};
+```
 
 ---
 
-## 🚀 Domains of Expertise
+## 💼 What I Do
 
-- **Machine Learning & Artificial Intelligence** 🤖🧠 (Computer Vision, NLP, Predictive Analytics)  
-- **Data Science** 📊 (Data Analysis, Visualization, Modeling)  
-- **Full Stack Web Development** 🌐 (Frontend + Backend + APIs)  
-- **Cybersecurity** 🔒 (Secure Systems & Applications)  
-- **Mobile App Development** 📱 (React Native, Flutter, Android)  
-- **IoT & Smart Systems** 🌱 (AI + IoT integrations for health & agriculture)  
+<table>
+<tr>
+<td width="50%">
+
+### 🎨 Frontend Development
+- ⚛️ Modern React & Next.js applications
+- 📱 Cross-platform mobile apps (React Native, Flutter)
+- 🎯 Responsive, accessible UI/UX
+- ⚡ Performance optimization & SEO
+
+</td>
+<td width="50%">
+
+### ⚙️ Backend Development
+- 🏗️ RESTful & GraphQL APIs
+- 🔐 Secure authentication systems
+- 📊 Database design & optimization
+- ☁️ Cloud deployment & scaling
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🤖 AI & Machine Learning
+- 👁️ Computer Vision systems
+- 💬 Natural Language Processing
+- 📈 Predictive analytics & modeling
+- 🧠 Deep learning applications
+
+</td>
+<td width="50%">
+
+### 🌐 IoT & Smart Systems
+- 🌱 Agriculture & health tech
+- 📡 Sensor integration
+- 📊 Real-time data processing
+- 🔗 AI-IoT hybrid solutions
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🛠️ Technologies & Tools
-
-### Frameworks & Libraries
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=for-the-badge)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white&style=for-the-badge)
-![Remix](https://img.shields.io/badge/-Remix-2E343E?logo=remix&logoColor=white&style=for-the-badge)
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white&style=for-the-badge)
-![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white&style=for-the-badge)
-![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=white&style=for-the-badge)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge)
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white&style=for-the-badge)
+## 🛠️ Tech Stack
 
 ### Languages
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge)
-![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white&style=for-the-badge)
-![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=for-the-badge)
-![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?logo=kotlin&logoColor=white&style=for-the-badge)
-![Dart](https://img.shields.io/badge/-Dart-0175C2?logo=dart&logoColor=white&style=for-the-badge)
-![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white&style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
 
 ### Frontend
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?logo=tailwind-css&logoColor=white&style=for-the-badge)
-![Material UI](https://img.shields.io/badge/-Material_UI-0081CB?logo=mui&logoColor=white&style=for-the-badge)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Remix](https://img.shields.io/badge/Remix-000000?style=for-the-badge&logo=remix&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Material UI](https://img.shields.io/badge/Material_UI-0081CB?style=for-the-badge&logo=mui&logoColor=white)
 
-### Tools
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge)
-![Android Studio](https://img.shields.io/badge/-Android_Studio-3DDC84?logo=android-studio&logoColor=white&style=for-the-badge)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=for-the-badge)
-![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?logo=visual-studio-code&logoColor=white&style=for-the-badge)
+### Mobile
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
 
----
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 
-## 🏆 Notable Projects
+### Database & Cloud
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
-- **Aurora Skin Analyzer** 🩺: AI-powered system for skin condition detection using EfficientNet + IoT.  
-- **Smart Agriculture App** 🌱: Final year project integrating AI + IoT for smart farming.  
-- **AI-Powered Financial Planning Assistant** 💰: A machine learning system for personalized financial advice.  
-- **Attendance Management System** 🎓: Next.js + Face Recognition for automated student/employee attendance.  
-- **CMS Portfolio Website** 💼: Full-stack CMS with Express, MongoDB, Cloudinary, and Next.js frontend.  
-- **AI Assistant** 🤖: NLP chatbot for automated customer support.  
-- **E-Commerce Platform** 🛒: Scalable platform built with Next.js + FastAPI.  
+### AI/ML & Data Science
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
----
-
-## 🌱 Strengths
-
-- 🚀 **Fast Learner** → Quickly adapts to new technologies & domains.  
-- 🔄 **Adaptability** → Thrives in diverse, dynamic environments.  
-- 🧑‍🤝‍🧑 **Leadership** → Leading tech teams (10+ members) as Tech Lead on real-world AI projects.  
-
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wyasyn&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wyasyn&layout=compact&theme=radical)  
-![GitHub Streak](https://streak-stats.demolab.com?user=wyasyn&theme=radical&hide_border=true)  
-
----
-
-## 🏅 GitHub Achievements
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=wyasyn&theme=radical&margin-w=10&no-frame=true)
+### Tools & DevOps
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
 
-## 🤝 Let’s Connect
+## 🏆 Featured Projects
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/yasin-walum)  
-[![Portfolio](https://img.shields.io/badge/-Portfolio-FF5722?logo=google-chrome&logoColor=white&style=for-the-badge)](https://yasin-walum.vercel.app/)  
-[![YouTube](https://img.shields.io/badge/-YasynDotDev-FF0000?logo=youtube&logoColor=white&style=for-the-badge)](https://youtube.com/@YasynDotDev)  
+<table>
+<tr>
+<td width="50%">
+
+### 🩺 Aurora Skin Analyzer
+AI-powered diagnostic system using **EfficientNet** for skin condition detection, integrated with IoT devices for real-time health monitoring.
+
+**Tech:** `Python` `TensorFlow` `FastAPI` `React` `IoT`
+
+</td>
+<td width="50%">
+
+### 🌱 Smart Agriculture Platform
+Final year project combining **AI + IoT** for precision farming, crop monitoring, and automated irrigation systems.
+
+**Tech:** `Python` `Flutter` `Django` `IoT Sensors` `ML`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 💰 AI Financial Planning Assistant
+Machine learning system providing personalized financial advice and investment recommendations.
+
+**Tech:** `Python` `Scikit-learn` `Next.js` `FastAPI`
+
+</td>
+<td width="50%">
+
+### 🎓 Face Recognition Attendance
+Automated attendance management system using face recognition technology for educational institutions.
+
+**Tech:** `Next.js` `OpenCV` `Python` `MongoDB`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 💼 CMS Portfolio Platform
+Full-stack content management system with cloud storage integration and dynamic portfolio generation.
+
+**Tech:** `Next.js` `Express` `MongoDB` `Cloudinary`
+
+</td>
+<td width="50%">
+
+### 🛒 E-Commerce Platform
+Scalable online marketplace with payment integration, inventory management, and analytics dashboard.
+
+**Tech:** `Next.js` `FastAPI` `PostgreSQL` `Stripe`
+
+</td>
+</tr>
+</table>
 
 ---
 
-![Visitor Count](https://komarev.com/ghpvc/?username=wyasyn&color=blueviolet&style=flat-square)  
+## 📊 GitHub Statistics
+
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=wyasyn&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=wyasyn&theme=tokyonight&hide_border=true" />
+</div>
+
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wyasyn&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=wyasyn&theme=tokyo-night&hide_border=true&area=true" />
+</div>
 
 ---
 
-### 🌟 Thanks for visiting
+## 🏅 Achievements & Recognition
 
-✨ Explore my repositories, connect with me, and let’s build **innovative solutions that make an impact!** 🚀
+<div align="center">
+  
+![](https://github-profile-trophy.vercel.app/?username=wyasyn&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1)
+
+</div>
+
+- 🎯 **Tech Lead** managing 10+ member development teams
+- 🚀 Successfully deployed **15+ production applications**
+- 📱 Built **AI-powered mobile apps** with 10K+ users
+- 🏆 Winner of multiple **hackathons** and coding competitions
+- 📚 Active contributor to **open-source projects**
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+  
+![](https://github-readme-activity-graph.vercel.app/graph?username=wyasyn&theme=tokyo-night&hide_border=true&area=true)
+
+</div>
+
+---
+
+## 🌟 Core Strengths
+
+```mermaid
+mindmap
+  root((Yasin Walum))
+    Leadership
+      Tech Lead Experience
+      Team Management
+      Project Planning
+    Technical Skills
+      Full Stack Development
+      AI/ML Engineering
+      Mobile Development
+    Soft Skills
+      Fast Learner
+      Problem Solver
+      Adaptable
+      Communication
+```
+
+---
+
+## 📫 Let's Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yasin-walum)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yasin-walum.vercel.app/)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@YasynDotDev)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yasinwalum@example.com)
+
+</div>
+
+---
+
+<div align="center">
+  
+### 💡 "Code is like humor. When you have to explain it, it's bad." – Cory House
+
+![](https://komarev.com/ghpvc/?username=wyasyn&color=blueviolet&style=for-the-badge)
+
+**⭐️ From [wyasyn](https://github.com/wyasyn) | Let's build something amazing together! 🚀**
+
+</div>
