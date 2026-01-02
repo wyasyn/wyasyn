@@ -65,10 +65,15 @@ Full-stack CMS with role-based access and cloud media management.
 
 ## GitHub Activity
 
-<div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=wyasyn&show_icons=true&hide_border=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=wyasyn&hide_border=true&theme=tokyonight" />
-</div>
+| Stats | Streak |
+|------|--------|
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wyasyn&show_icons=true&hide_border=true&theme=tokyonight) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=wyasyn&hide_border=true&theme=tokyonight) |
+
+
+| Top Languages | Activity Graph |
+|--------------|----------------|
+| ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wyasyn&layout=compact&hide_border=true&theme=tokyonight) | ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=wyasyn&theme=tokyo-night&hide_border=true) |
+
 
 ---
 
